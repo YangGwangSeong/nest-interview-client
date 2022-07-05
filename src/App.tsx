@@ -1,10 +1,8 @@
 import React from 'react';
-
+import { AppRouter } from "./Components";
 function App() {
   return (
-    <div className="App">
-      <div className="text-3xl font-bold underline">메인페이지</div>
-    </div>
+    <AppRouter></AppRouter>
   );
 }
 
