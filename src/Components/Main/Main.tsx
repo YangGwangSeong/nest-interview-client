@@ -4,7 +4,7 @@ import React from "react";
 const Main = () => {
   return (
     <div>
-        main
+        <span className="text-3xl font-bold underline">main</span>
     </div>
   );
 };
